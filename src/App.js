@@ -9,7 +9,7 @@ function App() {
     <div className='app' >
      <img src={image} width ='200px' alt='coffee'/>
      <ToDoList/>
-     <img src={imageTwo} width ='200px' alt='coffee'/>
+     <img src={imageTwo} width ='100px' alt='coffee'/>
     </div>
   );
 }
